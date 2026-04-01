@@ -278,7 +278,7 @@ const App = () => {
               className="flex items-center justify-between bg-slate-50 p-4 md:p-6 rounded-3xl border border-slate-100 group transition-hover"
             >
               <div className="flex items-center gap-6">
-                <div className="w-16 h-16 bg-white rounded-2xl flex items-center justify-center shadow-sm">
+                <div className="w-18 h-18 bg-white rounded-2xl flex items-center justify-center shadow-sm">
                   <img src={getImage(item.id)} className="w-10 h-10 object-contain" alt="" />
                 </div>
                 <div>
