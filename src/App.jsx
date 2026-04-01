@@ -303,7 +303,7 @@ const App = () => {
 
           <button
             onClick={handleCheckout}
-            className="w-full mt-8 bg-[#7C3AED] text-white py-5 rounded-[1.5rem] font-black text-xl hover:bg-[#6D28D9] transition-all shadow-xl hover:shadow-purple-200"
+            className="w-full mt-8 bg-[#7C3AED] text-white py-5 rounded-[1.5rem] font-black text-xl hover:bg-[#7134d2] transition-all shadow-xl hover:shadow-purple-200"
           >
             Proceed To Checkout
           </button>
