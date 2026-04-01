@@ -165,22 +165,28 @@ const App = () => {
 </header>
 
     
-      <section className="bg-[#7C3AED] py-10 grid grid-cols-1 md:grid-cols-3 text-center text-white">
-        <div>
-          <h2 className="text-4xl font-bold">50K+</h2>
-          <p>Active Users</p>
-        </div>
-        <div>
-          <h2 className="text-4xl font-bold">200+</h2>
-          <p>Premium Tools</p>
-        </div>
-        <div>
-          <h2 className="text-4xl font-bold">4.9</h2>
-          <p>Rating</p>
-        </div>
-      </section>
+  <section className="bg-gradient-to-r from-[#632cf1] to-[#45026e] py-14 px-6 md:px-20 grid grid-cols-1 md:grid-cols-3 items-center text-center text-white">
+  
+  {}
+  <div className="space-y-2">
+    <h2 className="text-4xl font-black tracking-tight">50K+</h2>
+    <p className="text-white/80 font-medium text-sm">Active Users</p>
+  </div>
 
-   
+  {}
+  <div className="space-y-2 border-y md:border-y-0 md:border-x border-white/20 py-10 md:py-4 my-6 md:my-0">
+    <h2 className="text-4xl font-black tracking-tight">200+</h2>
+    <p className="text-white/80 font-medium text-sm">Premium Tools</p>
+  </div>
+
+  {}
+  <div className="space-y-2">
+    <h2 className="text-4xl font-black tracking-tight">4.9</h2>
+    <p className="text-white/80 font-medium text-sm">Rating</p>
+  </div>
+
+</section>
+
 <section className="py-24 px-6 md:px-20 text-center bg-slate-50">
   <h2 className="text-4xl font-black mb-4 text-slate-800">Premium Digital Tools</h2>
   <p className="text-slate-500 mb-10 max-w-xl mx-auto">
@@ -441,7 +447,7 @@ const App = () => {
       </section>
 
 
-      <section className="bg-linear-to-br from-[#8B5CF6] to-[#7C3AED] py-24 px-6 text-center">
+      <section className="bg-linear-to-br from-[#45026e] to-[#36037e] py-24 px-6 text-center">
         <div className="max-w-2xl mx-auto">
           <h2 className="text-1xl md:text-3xl font-bold text-white mb-4 tracking-tight">
             Ready To Transform Your Workflow?
