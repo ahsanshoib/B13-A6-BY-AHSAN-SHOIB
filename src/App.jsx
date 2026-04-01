@@ -419,7 +419,7 @@ const App = () => {
         
           <div className="bg-white p-8 rounded-3xl border border-slate-100 shadow-sm flex flex-col">
             <h3 className="text-2xl font-bold mb-1">Enterprise</h3>
-            <p className="text-slate-500 text-sm mb-6">For teams and businesses</p>
+            <p className="text-slate-500 text-sm mb-6">For Teams and Businesses</p>
             <div className="mb-8">
               <span className="text-4xl font-black">$99</span>
               <span className="text-slate-400 text-sm">/Month</span>
