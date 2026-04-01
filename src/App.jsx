@@ -75,7 +75,7 @@ const App = () => {
   
   
   <div className="flex items-center">
-    <span className="text-3xl font-bold text-[#7C3AED] tracking-tight">DigiTools</span>
+    <span className="text-3xl font-bold text-[#682bd1] tracking-tight">DigiTools</span>
   </div>
 
   
@@ -448,7 +448,7 @@ const App = () => {
           </h2>
           
           <p className="text-white/80 text-sm md:text-base mb-8 leading-relaxed">
-            Join thousands of professionals who are already using Digitools to work smarter.
+            Join thousands of professionals who are already using DigiTools to work smarter.
             <br className="hidden md:block" /> Start your free trial today.
           </p>
 
