@@ -32,7 +32,7 @@ const products = [
   {
     id: 4,
     name: "Automation Toolkit",
-    description: "Automate repetitive tasks and streamline your workflow with powerful tools.",
+    description: "Automate Repetitive tasks and streamline your workflow with powerful tools.",
     price: 79,
     billing: "/Mo",
     badge: "Popular",
@@ -52,7 +52,7 @@ const products = [
   {
     id: 6,
     name: "Social Media Content Kit",
-    description: "Complete toolkit for creating engaging social media content across all platforms.",
+    description: "Complete Toolkit for creating engaging social media content across all platforms.",
     price: 39,
     billing: "/Mo",
     badge: "Best Seller",
