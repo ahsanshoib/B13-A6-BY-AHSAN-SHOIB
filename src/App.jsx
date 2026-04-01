@@ -182,7 +182,7 @@ const App = () => {
 
    
 <section className="py-24 px-6 md:px-20 text-center bg-slate-50">
-  <h2 className="text-4xl font-black mb-4 text-slate-900">Premium Digital Tools</h2>
+  <h2 className="text-4xl font-black mb-4 text-slate-800">Premium Digital Tools</h2>
   <p className="text-slate-500 mb-10 max-w-xl mx-auto">
     Choose from our curated tools to supercharge your workflow.
   </p>
