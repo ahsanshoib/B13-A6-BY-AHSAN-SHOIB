@@ -135,7 +135,7 @@ const App = () => {
     </h1>
 
   
-    <p className="text-gray-500 text-lg">
+    <p className="text-gray-400 text-lg">
       Access premium AI tools, design assets, templates, and productivity 
       software—all in one place. Start creating faster today.
     </p>
