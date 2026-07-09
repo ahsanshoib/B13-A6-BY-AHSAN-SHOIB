@@ -6,6 +6,7 @@
 
 NAME : SUPER-SOFT-SHOP
 
+LIVE LINK : https://bejewelled-peony-e3be86.netlify.app
 DESCRIPTION   : 
 
 This is a simple software shopping cart website built with React. Users can see products, add them to the cart, and manage their items easily. The website is responsive and easy to use.
